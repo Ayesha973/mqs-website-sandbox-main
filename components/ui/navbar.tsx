@@ -8,7 +8,7 @@ export default function Navbar() {
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         <div className="logoContainer">
           <img 
-            src="/logo/mqs_logo.png" 
+            src="/logo/mqs_logo-.png" 
             alt="Quant Society Logo" 
             className="logoImage"
           />
